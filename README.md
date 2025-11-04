@@ -4,7 +4,7 @@
 [![Language: Kotlin](https://img.shields.io/badge/Language-Kotlin-blue.svg)]()
 [![UI: Compose](https://img.shields.io/badge/UI-Jetpack_Compose-brightgreen.svg)]()
 
-Tweetzy is a modern Android application meticulously engineered with Jetpack Compose for a declarative UI, utilizing MVVM architecture, Dagger-Hilt for Dependency Injection, and Kotlin Coroutines/Flows for a reactive data pipeline, all driven by a Retrofit service that performs server-side data filtering via a custom X-JSON-Path header.
+Tweetzy is a modern Android application meticulously engineered with Jetpack Compose for a declarative UI, utilizing MVVM architecture, Dagger-Hilt for Dependency Injection, and Kotlin Coroutines/Flows for a reactive data pipeline, all driven by a Retrofit service for API access that performs server-side data filtering via a custom X-JSON-Path header.
 
 ## ✨ Key Features & Technology Stack
 
